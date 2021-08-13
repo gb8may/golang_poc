@@ -14,7 +14,7 @@ Get server name from websites:
 # ./net-catcher servers --host website.ca
 ```
 
-Get help
+Get help:
 ```
 # ./net-catcher -h
 ```
