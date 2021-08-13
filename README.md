@@ -1,4 +1,4 @@
-![golang](https://user-images.githubusercontent.com/35708820/129405960-789d6fad-f1ec-44eb-93bf-22fb19b81841.png)
+![1200px-Go_Logo_Blue svg](https://user-images.githubusercontent.com/35708820/129406114-dbf336c1-1a6d-4685-bfd2-144c641af2f3.png)
 
 # NetCatcher
 My first POC using GoLang
