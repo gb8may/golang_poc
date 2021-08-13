@@ -3,9 +3,6 @@
 # NetCatcher
 My first POC using GoLang
 
-```
-# go build
-```
 Get IP from websites:
 ```
 # ./net-catcher ip --host website.ca
