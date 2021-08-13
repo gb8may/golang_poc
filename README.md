@@ -1,4 +1,3 @@
-![blog-great-about-go](https://user-images.githubusercontent.com/35708820/129405778-78294476-e5ab-4443-99d7-d21aebe1ac41.png)
 
 # NetCatcher
 My first POC using GoLang
